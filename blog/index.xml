@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blogs on 測試部落格</title>
+    <link>https://Freedy0w0.github.io/blog/</link>
+    <description>Recent content in Blogs on 測試部落格</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-tw</language>
+    <lastBuildDate>Fri, 01 Oct 2021 23:22:40 +0800</lastBuildDate><atom:link href="https://Freedy0w0.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>語法測試</title>
+      <link>https://Freedy0w0.github.io/blog/test/</link>
+      <pubDate>Fri, 01 Oct 2021 23:22:40 +0800</pubDate>
+      
+      <guid>https://Freedy0w0.github.io/blog/test/</guid>
+      <description>01、單純的內文
+MarkDown語法中，換行需要在中間多空一行，所以這行是程式碼的第三行。
+02、標題：一級標題 02、標題：二級標題 02、標題：三級標題 02、標題：四級標題 02、標題：五級標題 02、標題：六級標題 03、粗體字
+04、斜體字</description>
+    </item>
+    
+    <item>
+      <title>How To Use Checklists To Improve Your UX</title>
+      <link>https://Freedy0w0.github.io/blog/post-13/</link>
+      <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
+      
+      <guid>https://Freedy0w0.github.io/blog/post-13/</guid>
+      <description>Heading 1 Heading 2 Heading 3 Heading 4 Heading 5 Heading 6 Emphasis Emphasis, aka italics, with asterisks or underscores.</description>
+    </item>
+    
+  </channel>
+</rss>
